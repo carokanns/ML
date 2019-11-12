@@ -6,7 +6,7 @@ For course
 * **test.csv**  
 Boston House prices. Data from kaggle.com
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview  
-**train.csv** is the train file from kaggle.com
+**train.csv** is the corresponding train file from kaggle.com
 * IDBM-Movies.csv
 * Tedtalks.csv
 
