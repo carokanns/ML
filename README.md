@@ -9,4 +9,5 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 **test.csv** is the corresponding test file from kaggle.com
 * IDBM-Movies.csv
 * **ted.csv** statistics from ted talks with data such as 'who did the talk', 'subject', 'event', 'ratings' etc
+  [descrition](https://www.kaggle.com/rounakbanik/ted-talks)
 
