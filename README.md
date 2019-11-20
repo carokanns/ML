@@ -11,3 +11,5 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 * **ted.csv** statistics from ted talks with data such as 'who did the talk', 'subject', 'event', 'ratings' etc.  [description](https://www.kaggle.com/rounakbanik/ted-talks)
 * **wine.csv**:  Wine recognition dataset from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine). For classifiers
 * **Titanic train.csv**:  Titanic survivals dataset from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine).
+* **processed.cleveland.csv**: Heart disease data from cleveland (a bit messed with for educational purposes)   (https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
+* **heart disease names**: Description of the heart disease dataset **processed.cleveland.csv** 
