@@ -13,4 +13,4 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 * **Titanic train.csv**:  Titanic survivals dataset from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine).
 * **processed.cleveland.csv**: Heart disease data from cleveland (a bit messed with for educational purposes)   (https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 * **heart disease names**: Description of the heart disease dataset **processed.cleveland.csv** 
-* **loan Prediction** [A Practice Problem: Loan Prediction III](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) from Analytics Vidhya
+* **train_loan.csv** [A Practice Problem: Loan Prediction III](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) from Analytics Vidhya
